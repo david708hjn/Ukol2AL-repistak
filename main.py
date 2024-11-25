@@ -1,7 +1,7 @@
 import numpy as np
 
 # 1.
-random_array = np.random.randint(0, 101, 10)
+random_array = np.random.randint(1, 5, 8, 9, 10, 12, 15, 18, 20)
 print("Původní pole:", random_array)
 
 # 2.
